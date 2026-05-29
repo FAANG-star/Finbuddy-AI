@@ -84,7 +84,7 @@ export default function AboutPage() {
         <InfoCard
           icon={<FaUserTie className="w-6 h-6 text-emerald-400" />}
           title="The Creator"
-          text="Built by Glen Louis — a hybrid engineer passionate about merging AI and real-world impact."
+          text="Built by FAANG-star — a hybrid engineer passionate about merging AI and real-world impact."
         />
         <InfoCard
           icon={<FaTools className="w-6 h-6 text-yellow-400" />}
